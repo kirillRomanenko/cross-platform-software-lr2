@@ -5,4 +5,3 @@ let temperatureC = readlineSync.question('Введите температуру 
 let temperature = new ConvertTemperature(temperatureC);
 temperature.convert();
 
-// console.log('Hi ' + userName + '!');
