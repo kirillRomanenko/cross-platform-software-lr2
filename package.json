@@ -1,0 +1,22 @@
+{
+  "name": "cross-platform-software-lr2",
+  "version": "1.0.0",
+  "description": "Современные технологии разработки кроссплатформенного ПО. Лабораторная работа №2",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirillRomanenko/cross-platform-software-lr2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirillRomanenko/cross-platform-software-lr2/issues"
+  },
+  "homepage": "https://github.com/kirillRomanenko/cross-platform-software-lr2#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
