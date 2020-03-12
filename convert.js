@@ -10,7 +10,6 @@ class ConvertTemperature {
         console.log('Температура по Фаренгейту: ', fahrenheit);
     }
 }
-// module.exports = ConvertTemperature
 
 class ConvertLength {
     constructor(value) {
